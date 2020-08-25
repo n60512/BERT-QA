@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+BERT-QA/data/DRCD_test_ml300.csv
+BERT-QA/data/DRCD_train_ml300.csv
+*.bin
+BERT-QA/log/output
